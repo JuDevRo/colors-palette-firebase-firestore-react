@@ -1,3 +1,6 @@
+# Información del proyecto
+En este proyecto puse a prueba la implementación de Firestore con Firebase para poder leer y crear datos, si agregamos la capacidad de actualizar y poder borrar los mismo podriamos completar el funcionamiento CRUD con firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
